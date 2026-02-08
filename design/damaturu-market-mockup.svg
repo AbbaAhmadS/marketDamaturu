@@ -1,0 +1,31 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#f5f9ff" />
+  <rect x="60" y="60" width="1080" height="680" rx="32" fill="#ffffff" stroke="#dce6f5" />
+  <rect x="100" y="110" width="420" height="30" rx="15" fill="#0f3b66" />
+  <rect x="100" y="170" width="520" height="18" rx="9" fill="#d8e6f7" />
+  <rect x="100" y="210" width="460" height="18" rx="9" fill="#d8e6f7" />
+  <rect x="100" y="270" width="180" height="40" rx="20" fill="#1b7f5a" />
+  <rect x="320" y="270" width="180" height="40" rx="20" fill="#ffffff" stroke="#1b7f5a" />
+
+  <rect x="660" y="140" width="420" height="240" rx="24" fill="#f0f6ff" />
+  <rect x="690" y="180" width="360" height="50" rx="12" fill="#ffffff" />
+  <rect x="690" y="250" width="360" height="50" rx="12" fill="#ffffff" />
+
+  <rect x="100" y="360" width="1000" height="2" fill="#e5edf7" />
+
+  <rect x="100" y="400" width="320" height="160" rx="24" fill="#ffffff" stroke="#e5edf7" />
+  <rect x="450" y="400" width="320" height="160" rx="24" fill="#ffffff" stroke="#e5edf7" />
+  <rect x="800" y="400" width="300" height="160" rx="24" fill="#ffffff" stroke="#e5edf7" />
+
+  <rect x="100" y="590" width="1000" height="2" fill="#e5edf7" />
+  <rect x="100" y="620" width="680" height="80" rx="24" fill="#ffffff" stroke="#e5edf7" />
+  <rect x="820" y="620" width="280" height="80" rx="24" fill="#0f3b66" />
+
+  <text x="100" y="95" font-family="Arial, sans-serif" font-size="20" fill="#1b7f5a" letter-spacing="4">DEMO / PROTOTYPE</text>
+  <text x="100" y="155" font-family="Arial, sans-serif" font-size="28" fill="#0b2240">Damaturu Modern Market Digital Platform</text>
+  <text x="690" y="170" font-family="Arial, sans-serif" font-size="14" fill="#1b7f5a">Market Snapshot</text>
+  <text x="130" y="450" font-family="Arial, sans-serif" font-size="14" fill="#0b2240">Stall Directory</text>
+  <text x="480" y="450" font-family="Arial, sans-serif" font-size="14" fill="#0b2240">Vendor Profiles</text>
+  <text x="830" y="450" font-family="Arial, sans-serif" font-size="14" fill="#0b2240">Announcements</text>
+  <text x="130" y="660" font-family="Arial, sans-serif" font-size="14" fill="#0b2240">Report & Admin Mock</text>
+</svg>

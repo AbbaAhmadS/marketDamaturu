@@ -1,0 +1,8 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#e7f1ff" />
+  <rect x="120" y="90" width="400" height="220" rx="18" fill="#ffffff" stroke="#d6e4f6" />
+  <rect x="180" y="140" width="120" height="140" rx="10" fill="#e2ebf8" />
+  <rect x="340" y="140" width="120" height="140" rx="10" fill="#dbe7f6" />
+  <rect x="200" y="60" width="240" height="40" rx="12" fill="#1b7f5a" />
+  <text x="220" y="86" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" letter-spacing="2">ADMIN BLOCK</text>
+</svg>
